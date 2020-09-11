@@ -6,4 +6,4 @@ This project folder contain the following important files;
    
 3. The corresponding pdf file of the above images
    
-   # NOTE: THIS PROJECT IS CARRIED OUT BY SUNDAY OLANIYI (c) s.olaniyi@outlook.com
+   # NOTE: THIS PROJECT WAS CARRIED OUT BY SUNDAY OLANIYI (c) s.olaniyi@outlook.com
